@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item android:title="Time"
+            android:id="@+id/timeFragment"
+            android:icon="@drawable/ic_baseline_access_time_24"/>
+
+        <item  android:title="Alarms"
+            android:id="@+id/alarmsFragment"
+            android:icon="@drawable/ic_baseline_access_alarm_24"/>
+
+</menu>
